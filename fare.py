@@ -1,4 +1,3 @@
-# Liting Zhou
 # this is a calculator,
 # which takes the distance as input,
 # and returns the fare as output.
