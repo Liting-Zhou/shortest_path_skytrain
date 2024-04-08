@@ -1,0 +1,54 @@
+0	2465.183362	Scott Road	Columbia
+1	615.8766392	Columbia	New Westminster
+2	2893.080307	New Westminster	22nd Street
+3	2019.496401	22nd Street	Edmonds
+4	2436.983696	Edmonds	Royal Oak
+5	1311.002244	Royal Oak	Metrotown
+6	784.4602161	Metrotown	Patterson
+7	1672.800763	Patterson	Joyce–Collingwood
+8	1224.008162	Joyce–Collingwood	29th Avenue
+9	869.117405	Nanaimo	29th Avenue
+10	1953.019363	Commercial–Broadway	Nanaimo
+11	2763.295892	Main Street–Science World	Commercial–Broadway
+12	1063.826703	Main Street–Science World	Stadium–Chinatown
+13	651.1656249	Granville	Stadium–Chinatown
+14	383.4599512	Granville	Burrard
+15	901.8712655	Waterfront	Burrard
+16	1666.703007	Lougheed Town Centre	Production Way–University
+17	2109.170774	Lougheed Town Centre	Braid
+18	1122.68954	Sapperton	Braid
+19	2601.161265	Columbia	Sapperton
+20	2308.770625	Gateway	Scott Road
+21	835.2780062	Surrey Central	King George
+22	1124.864966	Gateway	Surrey Central
+23	600.3878096	Lincoln	Lafarge Lake–Douglas
+24	869.552697	Coquitlam Central	Lincoln
+25	2013.912577	Coquitlam Central	Inlet Centre
+26	1284.61151	Inlet Centre	Moody Centre
+27	4284.359704	Burquitlam	Moody Centre
+28	1937.509197	Lougheed Town Centre	Burquitlam
+29	1549.293566	Production Way–University	Lake City Way
+30	1901.111389	Lake City Way	Sperling–Burnaby Lake
+31	1456.645641	Sperling–Burnaby Lake	Holdom
+32	1468.635917	Brentwood Town Centre	Holdom
+33	905.1784473	Gilmore	Brentwood Town Centre
+34	1628.530373	Gilmore	Rupert
+35	908.2136554	Rupert	Renfrew
+36	1855.288476	Renfrew	Commercial–Broadway
+37	842.9306593	VCC–Clark	Commercial–Broadway
+38	1047.362547	Aberdeen	Lansdowne
+39	718.8945835	Lansdowne	Richmond–Brighouse
+40	555.170055	Vancouver City Centre	Waterfront
+41	1072.857696	Yaletown–Roundhouse	Vancouver City Centre
+42	1007.85481	Olympic Village	Yaletown–Roundhouse
+43	428.7702928	Olympic Village	Broadway–City Hall
+44	1520.202128	King Edward	Broadway–City Hall
+45	1908.056577	Oakridge-41st Avenue	King Edward
+46	764.3965492	Oakridge-41st Avenue	Langara-49th Avenue
+47	1851.715075	Marine Drive	Langara-49th Avenue
+48	1566.797648	Bridgeport	Aberdeen
+49	1842.591371	Bridgeport	Marine Drive
+50	1580.252196	Bridgeport	Templeton
+51	959.8683885	Templeton	Sea Island Centre
+52	1498.594302	Sea Island Centre	YVR–Airport
+53	1671.148365	Lougheed Town Centre	Production Way–University
