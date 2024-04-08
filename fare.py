@@ -2,12 +2,13 @@
 # this is a calculator,
 # which takes the distance as input,
 # and returns the fare as output.
+# 1 zone 2.3, 2 zone 3.35, 3 zone 4.4
 
 
 def fare(distance):
-    base = 2.55
-    ladder = [0.2, 0.1, 0.05]
-    zone3fare = 4.8
+    base = 2.3
+    ladder = [0.15, 0.1, 0.05]
+    zone3fare = 4.4
     if distance <= 0:
         return 0
     elif distance <= 5:
