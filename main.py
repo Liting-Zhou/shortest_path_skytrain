@@ -1,13 +1,17 @@
 from skystrain_astar import skystrain_astar
+from skytrain_dijkstra import skytrain_dijkstra
 from load_data import load_data
 from fare import fare
 
 
 # 1.get the path and distance from start_station to goal_station
 astar = skystrain_astar()
-path,distance = astar.get_path_distance('Columbia','Scott Road')
-print(path)
-print(distance)
+path, distance = astar.get_path_distance('Columbia','Scott Road')
+print("A*:", path, distance)
+
+dijkstra = skytrain_dijkstra()
+path, distance = dijkstra.get_path_distance('Columbia','Scott Road')
+print("Dijkstra:", path, distance)
 
 # # 2.get the distance between all stations and write into a file
 # station_list, _, _ = load_data().lines()
